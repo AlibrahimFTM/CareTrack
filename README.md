@@ -149,5 +149,4 @@ caretrack/
 ## License
 
 This project was developed for academic purposes (CIS422 - Human Computer Interaction).
-ani
-- Layan Alasmri
+
