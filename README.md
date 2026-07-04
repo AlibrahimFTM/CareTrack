@@ -24,8 +24,8 @@
 
 ## Tech Stack
 
-- **Frontend**: HTML5, CSS3 (Cartoon Brutalist design), JavaScript (Vanilla)
-- **Backend**: PHP 8+ (PDO)
+- **Frontend**: HTML5, CSS3, JavaScript 
+- **Backend**: PHP 
 - **Database**: MySQL / MariaDB
 - **Design**: Accessible, High Contrast, Large Touch Targets
 
@@ -149,12 +149,5 @@ caretrack/
 ## License
 
 This project was developed for academic purposes (CIS422 - Human Computer Interaction).
-
-## Team
-
-- Juman Sultan (Leader)
-- Fatimah Alibrahim
-- Reemas Sultan
-- Fatimah Aljaffal
-- Shahad Alsufyani
+ani
 - Layan Alasmri
